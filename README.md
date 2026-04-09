@@ -12,6 +12,6 @@
 - Build impactful software solutions.  
 
 📫 Connect with me:  
-- [LinkedIn](your-link https://www.linkedin.com/in/saideepak-?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- [Portfolio](your-site)  
+- [LinkedIn](-link https://www.linkedin.com/in/saideepak-?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+- [Portfolio](-site)  
 
